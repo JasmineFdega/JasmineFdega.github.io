@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Personal Introduction</title>
+    <style>
+      body {
+            backgroung-coloor: #1462bb;                              
+      }
+      
+      h1 {
+             color: #256c81;
+      }
+
+      p { 
+          
+           color: #1db6b8;
+      }
+    </style>
+  </head>
+  <body>
+    <h1> My Name is Jasmine Dega </h1>
+    <p> I'am a web development student> I like learning coding and solving problems.
+    I like reading on my free time and listening to music right now I trying to 
+    inprove my drawing.</p>
+  
+  </body>
+</html>
